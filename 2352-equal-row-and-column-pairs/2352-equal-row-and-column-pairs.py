@@ -1,14 +1,18 @@
 class Solution:
     def equalPairs(self, grid: List[List[int]]) -> int:
         length = len(grid)
+        col_dic = {}
+        row_dic = {}
         count = 0
         for i in range(length):
+            temp_list = []
+            row_dic[i]=grid[i]
             for j in range(length):
-                flag = 0
-                for k in range(length):
-                    if grid[i][k] != grid[k][j]:
-                        flag += 1
-                        break
-                if flag == 0:
+                temp_list.append(grid[j][i])
+            col_dic[i] = temp_list
+        for i in range(length):
+            for j in range(length):
+                if row_dic[i] == col_dic[j]:
                     count += 1
-        return count 
+        return count   
+       
