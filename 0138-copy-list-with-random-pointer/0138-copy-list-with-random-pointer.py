@@ -14,6 +14,8 @@ class Solution:
         real_head2=head
         if head==None:
             return head
+        
+        #this loop creates a list without random connection
         while head:
             if flag==0:
                 new_node=Node(head.val)
@@ -21,10 +23,12 @@ class Solution:
             else:
                 new_node.next = Node(head.val)
                 new_node = new_node.next
-                
-            
             head = head.next
             flag +=1
+            
+            
+        
+        #this loop saves random connection index in a dictionary
         temp_dict = dict()
         i=0
         while real_head:
@@ -42,8 +46,10 @@ class Solution:
                 temp_dict[i]=-1
             real_head = real_head.next
             i+=1
-            
+         
         
+        
+        #This loops creates random connection according to dictionary
         temp = ans_node
         i=0
         while temp:
