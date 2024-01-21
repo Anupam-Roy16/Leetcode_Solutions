@@ -5,17 +5,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def inorder(self,root):
-        if root == None:
-            return [-1000000]
-        elif root.left==None and root.right==None:
-            return [root.val]
-        else:
-            return [root.val] + self.inorder(root.left) + self.inorder(root.right)
-        
-    def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-        if self.inorder(p) == self.inorder(q):
-            print(self.inorder(p),self.inorder(q))
-            return 1
-        else:
-            return 0
+    def isSameTree(self, p, q):
+        if p and q:
+            return p.val == q.val and self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
+        return p == q
