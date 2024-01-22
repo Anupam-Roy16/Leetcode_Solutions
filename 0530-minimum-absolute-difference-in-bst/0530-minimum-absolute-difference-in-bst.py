@@ -5,6 +5,9 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    
+    #return inorder_list which is sorted in asceding order
+    
     def helper(self,root):
         if root == None:
             return []
@@ -13,6 +16,8 @@ class Solution:
         
     def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
         inorder_list = self.helper(root)
+        
+        # founded minimum differece
         min = 10000000000
         for i in range(len(inorder_list)-1):
             if min > (inorder_list[i+1] - inorder_list[i]):
