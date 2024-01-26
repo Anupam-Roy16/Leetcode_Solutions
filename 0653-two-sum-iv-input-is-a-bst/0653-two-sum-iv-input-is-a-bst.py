@@ -5,6 +5,8 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    #run bfs on tree and simultaneously save the val in list and check needy vallue is in list or not 
+    
     def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
         queue = []
         current = []
