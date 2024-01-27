@@ -5,6 +5,8 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    # preorder traverse and check the equality
+    
     def helper(self,root,k):
         if root == None:
             return 1
