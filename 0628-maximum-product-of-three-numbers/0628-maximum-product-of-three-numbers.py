@@ -1,6 +1,6 @@
 class Solution:
     def maximumProduct(self, nums: List[int]) -> int:
-        'hghg'
+        'trick: consider the case -9 -8 -1 0 1 2 3'
         nums.sort()
         length = len(nums) -1
         product1 =-100000000000
