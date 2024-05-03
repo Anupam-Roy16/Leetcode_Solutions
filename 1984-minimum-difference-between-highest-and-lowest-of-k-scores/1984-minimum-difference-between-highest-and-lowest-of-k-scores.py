@@ -1,4 +1,5 @@
 class Solution:
+    #first sort . then iterate to find minimum diffrence between two number at k distance  
     def minimumDifference(self, nums: List[int], k: int) -> int:
         nums.sort()
         i = (k-1)
