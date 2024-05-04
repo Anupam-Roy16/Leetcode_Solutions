@@ -4,15 +4,17 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    #first store of next node of a node. then current node connect to previios node. now curent node is set to previous node.
+    # this is recursive same process as iterative. aware of return 
+    def rec(self,node,prev):
+        if node == None:
+            return prev
+        curr = node
+        node = node.next
+        curr.next = prev
+        prev = curr
+        return self.rec(node,prev)
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        prev = None
         node = head
-        while node!= None:
-            current = node
-            node = node.next
-            current.next = prev
-            prev = current
-        return prev
-            
+        prev = None
+        return self.rec(node,prev)
         
