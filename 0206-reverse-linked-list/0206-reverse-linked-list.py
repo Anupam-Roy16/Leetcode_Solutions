@@ -4,6 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution:
+    #first store of next node of a node. then current node connect to previios node. now curent node is set to previous node.
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         prev = None
         node = head
