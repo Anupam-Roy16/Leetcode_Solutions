@@ -1,7 +1,7 @@
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
         """
-        Do not return anything, modify nums in-place instead.
+        first find index of first 0  and indicate this position . then after the index find non zero and marked position is initialised by this non zero and increase 1 this position and value set to zero ,and find next non zero. repeated process 
         """
         loc = -1
         for j in range(len(nums)):
