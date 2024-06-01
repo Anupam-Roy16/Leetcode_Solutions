@@ -3,6 +3,8 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+#slow fast ar madhome prothome slow te middle value anlam. prev ar dara prothom theke half porjonto revere conected korlam. then slow and prev reverese traveres kore palindrome chek korlam.
+#T.C = O(n), S.C = (1)
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
         count = 0
