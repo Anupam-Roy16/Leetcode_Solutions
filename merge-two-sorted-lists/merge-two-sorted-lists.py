@@ -3,6 +3,7 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+# prothome jeta choto seta ans liste add korbo. ai nodta save kore rakhbo. list1 and list2 taraverse korbo . jeta choto seta answere add korbo. ans list and jeta add korlam sei list samne shift korbo. kono akta list none hle loop break habe and oprta ans list a add hbe. 
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
         if list1 == None or list2 == None:
