@@ -1,4 +1,5 @@
 class Solution:
+    #sieve of erasthosthenes
     def countPrimes(self, n: int) -> int:
         prime = [0]*n
         for i in range(4,n,2):
