@@ -1,4 +1,5 @@
 class Solution:
+    #by slicing the rotated part
     def check(self, nums: List[int]) -> bool:
         flag = 0
         for i in range(1,len(nums)):
