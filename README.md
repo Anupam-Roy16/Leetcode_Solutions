@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -28,4 +29,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+## String
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
