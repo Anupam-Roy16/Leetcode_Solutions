@@ -8,7 +8,7 @@ class Solution:
                     s[i] = s[i+1]
                     s[i+1] = tmp
                     return "".join(s)
-                    break
+                    
         return s
 
         
