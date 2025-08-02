@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-minimum-moves-to-convert-string](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2154-minimum-moves-to-convert-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Greedy
 |  |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Two Pointers
 |  |
