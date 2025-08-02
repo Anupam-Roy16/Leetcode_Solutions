@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2447-merge-similar-items](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2447-merge-similar-items) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0697-degree-of-an-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
 | [2447-merge-similar-items](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2447-merge-similar-items) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sliding Window
 |  |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2447-merge-similar-items) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -114,5 +117,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
