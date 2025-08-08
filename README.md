@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2447-merge-similar-items](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2447-merge-similar-items) |
+| [2650-split-with-minimum-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2650-split-with-minimum-sum) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
 |  |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
+| [2650-split-with-minimum-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2650-split-with-minimum-sum) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2650-split-with-minimum-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2650-split-with-minimum-sum) |
 ## Counting Sort
 |  |
 | ------- |
