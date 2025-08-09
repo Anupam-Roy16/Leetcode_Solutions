@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -156,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+## Matrix
+|  |
+| ------- |
+| [0661-image-smoother](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
