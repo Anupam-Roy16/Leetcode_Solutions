@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
+| [0792-binary-search](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1115-valid-boomerang](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
