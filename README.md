@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
