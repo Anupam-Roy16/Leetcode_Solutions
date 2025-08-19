@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0661-image-smoother](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1115-valid-boomerang](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
+| [0816-design-hashset](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [2447-merge-similar-items](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2447-merge-similar-items) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -177,4 +180,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
