@@ -1,22 +1,21 @@
 class MyHashSet:
 
     def __init__(self):
-        self.hash = {}
+        self.arr = [False for i in range(1000001)]
         
-
     def add(self, key: int) -> None:
-        self.hash[key] = True
+        self.arr[key] = True
         
 
     def remove(self, key: int) -> None:
-        if key in self.hash:
-            del self.hash[key]
+        self.arr[key] = False
 
     def contains(self, key: int) -> bool:
-        if key in self.hash:
+        if self.arr[key] == True:
             return True
         else:
             return False
+
 
 
 
