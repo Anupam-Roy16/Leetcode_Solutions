@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0661-image-smoother](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0749-shortest-completing-word](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0822-unique-morse-code-words) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
+| [0749-shortest-completing-word](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0837-most-common-word) |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0749-shortest-completing-word](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0837-most-common-word) |
