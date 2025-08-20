@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0824-number-of-lines-to-write-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1115-valid-boomerang](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0822-unique-morse-code-words](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0824-number-of-lines-to-write-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Math
 |  |
