@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1115-valid-boomerang](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0919-projection-area-of-3d-shapes](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [1115-valid-boomerang](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
@@ -193,9 +195,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0661-image-smoother](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0919-projection-area-of-3d-shapes) |
 ## Geometry
 |  |
 | ------- |
+| [0919-projection-area-of-3d-shapes](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [1115-valid-boomerang](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
 ## Enumeration
 |  |
