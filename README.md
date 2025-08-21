@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0506-relative-ranks](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0661-image-smoother](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0919-projection-area-of-3d-shapes) |
