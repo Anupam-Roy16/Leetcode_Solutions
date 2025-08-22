@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0506-relative-ranks](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0506-relative-ranks](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0645-set-mismatch) |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0680-valid-palindrome-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
