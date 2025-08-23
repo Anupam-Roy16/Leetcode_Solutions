@@ -15,14 +15,14 @@ class Solution:
                         if minn > nums[j]:
                             minn = nums[j]
                             index = j
-                #print()
+          
                 tmp = nums[index]
                 nums[index] = nums[i-1]
                 nums[i-1] = tmp
-                print(nums)
-                tmp = nums[i:]
-                tmp.sort()
-                nums[:] = nums[:i] + tmp
+               
+                new = nums[i:]
+                new.sort()
+                nums[:] = nums[:i] + new
                 flag = 1
                 break 
         if flag ==0:
