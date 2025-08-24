@@ -11,7 +11,7 @@ class Solution:
                 continue
             while len(stack)!=0 and stack[-1] > s[i] and lastindex_dict[stack[-1]] > i:
                 seen.remove(stack[-1]) 
-                stack = stack[:len(stack)-1]
+                stack.pop(len(stack)-1)
             stack.append(s[i])
             seen.add(s[i])
         return "".join(stack)
