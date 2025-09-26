@@ -1,14 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        'sapce o(n), time o(n),  '
-        'it can be solved by two poointer first sort then search '
-        
-        dictionary = {}
+        needy_dict = {}
         for i in range(len(nums)):
-            if target-nums[i] in dictionary:
-                return [i,dictionary[target - nums[i]]]
-            else:
-                dictionary[nums[i]] = i
-        
-            
+            needy_number = target - nums[i]
+            if needy_number in needy_dict:
+                return [i,needy_dict[needy_number]]
+            needy_dict[nums[i]] = i
+
+
         
