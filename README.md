@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [4015-split-array-with-minimum-difference](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/4015-split-array-with-minimum-difference) |
 | [4039-compute-decimal-representation](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/4039-compute-decimal-representation) |
 ## Hash Table
 |  |
@@ -237,4 +238,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [4015-split-array-with-minimum-difference](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/4015-split-array-with-minimum-difference) |
 <!---LeetCode Topics End-->
