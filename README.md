@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [4039-compute-decimal-representation](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/4039-compute-decimal-representation) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2650-split-with-minimum-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2650-split-with-minimum-sum) |
+| [4039-compute-decimal-representation](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/4039-compute-decimal-representation) |
 ## Counting Sort
 |  |
 | ------- |
