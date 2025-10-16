@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2816-lexicographically-smallest-palindrome](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3999-minimum-operations-to-transform-string](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3999-minimum-operations-to-transform-string) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2816-lexicographically-smallest-palindrome](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3999-minimum-operations-to-transform-string](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3999-minimum-operations-to-transform-string) |
 ## Two Pointers
 |  |
 | ------- |
