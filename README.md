@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1031-add-to-array-form-of-integer](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1115-valid-boomerang](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1137-height-checker) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1054-complement-of-base-10-integer) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 ## Matrix
 |  |
 | ------- |
