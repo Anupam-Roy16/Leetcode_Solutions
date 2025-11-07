@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1031-add-to-array-form-of-integer](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2650-split-with-minimum-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2650-split-with-minimum-sum) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0899-binary-gap](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
 | ------- |
