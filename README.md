@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1115-valid-boomerang](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1137-height-checker) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1137-height-checker) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
 |  |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1054-complement-of-base-10-integer](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
