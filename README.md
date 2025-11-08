@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1839-decode-xored-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1839-decode-xored-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2447-merge-similar-items](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2447-merge-similar-items) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1839-decode-xored-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1839-decode-xored-array) |
 ## Matrix
 |  |
 | ------- |
