@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2447-merge-similar-items](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2447-merge-similar-items) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0837-most-common-word) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2447-merge-similar-items](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2447-merge-similar-items) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
 |  |
@@ -105,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2154-minimum-moves-to-convert-string) |
@@ -226,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1610-xor-operation-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
 | ------- |
