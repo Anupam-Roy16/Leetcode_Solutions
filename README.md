@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-first-letter-to-appear-twice](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2447-merge-similar-items](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2447-merge-similar-items) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sliding Window
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
 |  |
@@ -123,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-minimum-moves-to-convert-string](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2154-minimum-moves-to-convert-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2427-first-letter-to-appear-twice](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -247,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2159-two-out-of-three](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Matrix
 |  |
 | ------- |
