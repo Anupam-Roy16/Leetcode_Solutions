@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1839-decode-xored-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2159-two-out-of-three](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2159-two-out-of-three) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1610-xor-operation-in-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2650-split-with-minimum-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2650-split-with-minimum-sum) |
 | [4039-compute-decimal-representation](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/4039-compute-decimal-representation) |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1610-xor-operation-in-an-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1839-decode-xored-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2159-two-out-of-three) |
 ## Matrix
 |  |
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Design
 |  |
@@ -265,4 +269,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [4015-split-array-with-minimum-difference](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/4015-split-array-with-minimum-difference) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
