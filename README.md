@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1839-decode-xored-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2159-two-out-of-three](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2159-two-out-of-three) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2447-merge-similar-items](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2447-merge-similar-items) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0822-unique-morse-code-words](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2159-two-out-of-three](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2159-two-out-of-three) |
 | [2447-merge-similar-items](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2447-merge-similar-items) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1610-xor-operation-in-an-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1839-decode-xored-array) |
+| [2159-two-out-of-three](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2159-two-out-of-three) |
 ## Matrix
 |  |
 | ------- |
