@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2594-count-pairs-of-similar-strings) |
+| [2659-number-of-even-and-odd-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2659-number-of-even-and-odd-bits) |
 ## Matrix
 |  |
 | ------- |
