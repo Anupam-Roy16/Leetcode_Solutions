@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2650-split-with-minimum-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2650-split-with-minimum-sum) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [4039-compute-decimal-representation](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/4039-compute-decimal-representation) |
 ## Counting Sort
 |  |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3044-minimum-operations-to-collect-elements](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
@@ -299,4 +302,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
