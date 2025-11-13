@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [4015-split-array-with-minimum-difference](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/4015-split-array-with-minimum-difference) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sliding Window
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2659-number-of-even-and-odd-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2659-number-of-even-and-odd-bits) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Matrix
 |  |
 | ------- |
