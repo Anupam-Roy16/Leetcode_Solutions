@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3044-minimum-operations-to-collect-elements](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [4015-split-array-with-minimum-difference](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/4015-split-array-with-minimum-difference) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
