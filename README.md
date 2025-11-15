@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2650-split-with-minimum-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/2650-split-with-minimum-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [4039-compute-decimal-representation](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/4039-compute-decimal-representation) |
 ## Counting Sort
 |  |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
 | ------- |
