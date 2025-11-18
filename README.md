@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0477-total-hamming-distance](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0477-total-hamming-distance) |
 | [0506-relative-ranks](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0477-total-hamming-distance](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0477-total-hamming-distance) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [1031-add-to-array-form-of-integer](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1115-valid-boomerang) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0861-flipping-an-image) |
