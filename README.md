@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0397-integer-replacement](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0645-set-mismatch) |
@@ -313,4 +315,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
