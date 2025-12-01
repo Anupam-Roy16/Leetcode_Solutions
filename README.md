@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0477-total-hamming-distance](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0477-total-hamming-distance) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0477-total-hamming-distance](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0477-total-hamming-distance) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [1031-add-to-array-form-of-integer](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/1031-add-to-array-form-of-integer) |
