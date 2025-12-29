@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0477-total-hamming-distance](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0477-total-hamming-distance) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0919-projection-area-of-3d-shapes) |
