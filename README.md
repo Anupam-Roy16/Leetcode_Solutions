@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0316-remove-duplicate-letters](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -326,4 +328,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0397-integer-replacement) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
