@@ -1,5 +1,6 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
+        #AR CODE
         min_num = 1111111111111111
         max_profit = 0
         for price in prices:
