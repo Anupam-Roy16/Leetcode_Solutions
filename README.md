@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0477-total-hamming-distance](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0477-total-hamming-distance) |
 | [0506-relative-ranks](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0397-integer-replacement](https://github.com/Anupam-Roy16/Leetcode_Solutions/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
